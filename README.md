@@ -32,6 +32,7 @@ Prerequisites
     SMS Mobile API Account: Install the SMS Mobile API app (available for Android and iOS) and create an account. The app will automatically generate your API key, linking it to your phone for secure SMS access.
     OpenAI API Key: Obtain an API key from OpenAI to access ChatGPT's API.
 [Download SMS Mobile API for Android](https://play.google.com/store/apps/details?id=com.smsmobileapiapp)
+
 [Download SMS Mobile API for iOS](https://apps.apple.com/us/app/sms-mobile-api/id6667092442) *
 
 This will continuously listen for incoming SMS messages and forward them to ChatGPT, which will process the messages and respond via SMS.
