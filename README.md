@@ -33,7 +33,7 @@ Prerequisites
     OpenAI API Key: Obtain an API key from OpenAI to access ChatGPT's API.
 [Download SMS Mobile API for Android](https://play.google.com/store/apps/details?id=com.smsmobileapiapp)
 
-[Download SMS Mobile API for iOS](https://apps.apple.com/us/app/sms-mobile-api/id6667092442) *
+[Download SMS Mobile API for iOS](https://apps.apple.com/us/app/sms-mobile-api/id6667092442) 
 
 This will continuously listen for incoming SMS messages and forward them to ChatGPT, which will process the messages and respond via SMS.
 Configuration
@@ -52,6 +52,3 @@ Future Enhancements
     Survey/Feedback Collection: Gather customer feedback through conversational SMS interactions.
     Personalized Notifications: Send personalized, AI-generated notifications based on SMS input.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
